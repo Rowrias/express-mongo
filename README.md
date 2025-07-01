@@ -16,7 +16,10 @@ Node.js: criando uma API Rest com Express e MongoDB
 
 - A aplicação roda ao digitar no terminal: npm run dev
 
-03. Foi instalado o framework Express na versão 4.18.1
+03. Foi instalado o framework Express na versão 4.18.1 e implementado os metodos: CRUD
 - npm install express@4.18.1
 
+04. Foi criado uma conta no mongodb para usar o mongo como banco de dados NoSql e um cluster e um database chamado 'livraria (livros)' e instalado uma biblioteca chamada Mongoose que faz a conexão entre o app e o mongo:
+- npm install mongoose@7.3.4
 
+05. 
