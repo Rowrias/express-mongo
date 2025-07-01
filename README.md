@@ -22,4 +22,7 @@ Node.js: criando uma API Rest com Express e MongoDB
 04. Foi criado uma conta no mongodb para usar o mongo como banco de dados NoSql e um cluster e um database chamado 'livraria (livros)' e instalado uma biblioteca chamada Mongoose que faz a conexão entre o app e o mongo:
 - npm install mongoose@7.3.4
 
-05. 
+05. Foi instalado o dotenv e criado um arquivo .env para criar variaveis para dados sensiveis.
+- npm install dotenv
+
+06. 
